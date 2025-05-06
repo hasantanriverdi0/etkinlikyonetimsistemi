@@ -1,0 +1,17 @@
+C:\Users\hasan\source\repos\etkinlikyonetimsistemi\etkinlikyonetimsistemi\bin\Debug\etkinlikyonetimsistemi.exe.config
+C:\Users\hasan\source\repos\etkinlikyonetimsistemi\etkinlikyonetimsistemi\bin\Debug\etkinlikyonetimsistemi.exe
+C:\Users\hasan\source\repos\etkinlikyonetimsistemi\etkinlikyonetimsistemi\bin\Debug\etkinlikyonetimsistemi.pdb
+C:\Users\hasan\source\repos\etkinlikyonetimsistemi\etkinlikyonetimsistemi\obj\Debug\etkinlikyonetimsistemi.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\etkinlikyonetimsistemi\etkinlikyonetimsistemi\obj\Debug\etkinlikyonetimsistemi.etkana.resources
+C:\Users\hasan\source\repos\etkinlikyonetimsistemi\etkinlikyonetimsistemi\obj\Debug\etkinlikyonetimsistemi.Properties.Resources.resources
+C:\Users\hasan\source\repos\etkinlikyonetimsistemi\etkinlikyonetimsistemi\obj\Debug\etkinlikyonetimsistemi.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\etkinlikyonetimsistemi\etkinlikyonetimsistemi\obj\Debug\etkinlikyonetimsistemi.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\etkinlikyonetimsistemi\etkinlikyonetimsistemi\obj\Debug\etkinlikyonetimsistemi.exe
+C:\Users\hasan\source\repos\etkinlikyonetimsistemi\etkinlikyonetimsistemi\obj\Debug\etkinlikyonetimsistemi.pdb
+C:\Users\hasan\source\repos\etkinlikyonetimsistemi\etkinlikyonetimsistemi\obj\Debug\etkinlikyonetimsistemi.etksecim.resources
+C:\Users\hasan\source\repos\etkinlikyonetimsistemi\etkinlikyonetimsistemi\obj\Debug\etkinlikyonetimsistemi.etklist.resources
+C:\Users\hasan\source\repos\etkinlikyonetimsistemi\etkinlikyonetimsistemi\obj\Debug\etkinlikyonetimsistemi.etkuye.resources
+C:\Users\hasan\source\repos\etkinlikyonetimsistemi\etkinlikyonetimsistemi\obj\Debug\etkinlikyonetimsistemi.etklistekle.resources
+C:\Users\hasan\source\repos\etkinlikyonetimsistemi\etkinlikyonetimsistemi\obj\Debug\etkinlikyonetimsistemi.etkuyeekle.resources
+C:\Users\hasan\source\repos\etkinlikyonetimsistemi\etkinlikyonetimsistemi\obj\Debug\etkinlikyonetimsistemi.biletsat.resources
+C:\Users\hasan\source\repos\etkinlikyonetimsistemi\etkinlikyonetimsistemi\obj\Debug\etkinlikyonetimsistemi.biletsil.resources
