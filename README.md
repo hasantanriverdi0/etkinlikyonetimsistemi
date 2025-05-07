@@ -28,7 +28,7 @@ Bu proje, **C# Windows Forms** kullanılarak geliştirilmiş bir **Etkinlik Yön
 - **Etkinlik Detayları**  
   ![3](3.png)
 
-- **Etkinlik Katılım Seçeneği**  
+- **Üye İşlemleri**  
   ![4](4.png)
 
 - **Etkinlik Yönetimi**  
